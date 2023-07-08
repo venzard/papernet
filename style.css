@@ -1,0 +1,44 @@
+.wrapper{
+    margin: 0 auto;
+    width: 1220px;
+}
+
+.header-container{
+    display: flex;
+    margin: 0 auto;
+    width: 1110px;
+    align-items: center;
+    justify-content: space-between;
+    height: 86px;
+}
+
+header{
+    height: 85px;
+    background-color: #007765;
+}
+
+nav{
+    color: white;
+}
+
+nav ul{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+nav li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.vl {
+      border-left: 2px solid white;
+      height: 29px;
+  }
