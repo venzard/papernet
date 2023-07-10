@@ -44,7 +44,7 @@ a{
   }
 
 .paper{
-    background-image: url(../assets/img/img1.jpg);
+    background-image: url(https://raw.githubusercontent.com/venzard/papernet/main/assets/img/img1.jpg/img1.jpg);
     height: 404px;
     display: flex;
     align-items: center;
@@ -86,7 +86,7 @@ a{
 }
 
 .hero_container{
-    background-image: url(../assets/img/img2.jpg);
+    background-image: url(https://raw.githubusercontent.com/venzard/papernet/main/assets/img/img2.jpg);
     height: 484px;
     display: flex;
     align-items: center;
@@ -101,7 +101,7 @@ a{
 }
 
 .intro{
-    background-image: url(../assets/img/intro_bck.jpg);
+    background-image: url(https://raw.githubusercontent.com/venzard/papernet/main/assets/img/intro_bck.jpg);
 }
 .intro_header{
     color: #007765;
@@ -138,7 +138,7 @@ a{
 
 .team{
     display: flex;
-    background-image: url(../assets/img/team-bck.jpg);
+    background-image: url(https://raw.githubusercontent.com/venzard/papernet/main/assets/img/team-bck.jpg);
     background-size: contain;
     flex-direction: column;
     align-items: center;
