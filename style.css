@@ -1,6 +1,6 @@
 .wrapper{
     margin: 0 auto;
-    width: 1220px;
+    /* width: 1220px; */
 }
 
 .header-container{
@@ -42,3 +42,157 @@ a{
       border-left: 2px solid white;
       height: 29px;
   }
+
+.paper{
+    background-image: url(/assets/img/img1.jpg);
+    height: 404px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 72px;
+    font-weight: 500;
+}
+
+.problem{
+    background-color: #eeeeee;
+
+}
+.problem_container{
+    margin: 0 auto;
+    width: 1110px;
+}
+
+.problem_header{
+    padding-top: 48px;
+    color: #007765;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 500;
+}
+
+.problem_description{
+    color: #000;
+    padding-top: 16px;
+    font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 92px;
+}
+
+.hero_container{
+    background-image: url(/assets/img/img2.jpg);
+    height: 484px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.intro{
+    background-image: url(/assets/img/intro_bck.jpg);
+}
+.intro_header{
+    color: #007765;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 48px;
+    padding-bottom: 16px;
+}
+
+.intro_description{
+    display: flex;
+    color: #000;
+    font-family: Roboto;
+    font-size: 32px;
+    flex-direction: column;
+    padding-bottom: 92px;
+    align-items: center;
+}
+
+.intro_logo{
+    width: 115px;
+    height: 115px;
+    margin-right: 48px;
+}
+
+.intro_description__header{
+    display: flex;
+    align-items: center;
+}
+
+.team{
+    display: flex;
+    background-image: url(./assets/img/team-bck.jpg);
+    background-size: contain;
+    flex-direction: column;
+    align-items: center;
+}
+
+.team_header{
+    color: #007765;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 500;
+    padding-top: 48px;
+}
+
+.cards{
+    display: flex;
+    width: 1110px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-bottom: 122px;
+}   
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    align-items: center;
+    padding-top: 58px;
+}
+
+.card_header{
+    color: #007765;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    padding-top: 12px;
+}
+
+.card_description{
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+footer{
+    background-color: #333;
+    color: #ffffff;
+    align-items: center;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 48px;
+    padding-bottom: 64px;
+}
