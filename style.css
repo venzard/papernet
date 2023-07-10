@@ -44,7 +44,7 @@ a{
   }
 
 .paper{
-    background-image: url(https://raw.githubusercontent.com/venzard/papernet/main/assets/img/img1.jpg/img1.jpg);
+    background-image: url(https://raw.githubusercontent.com/venzard/papernet/main/assets/img/img1.jpg);
     height: 404px;
     display: flex;
     align-items: center;
