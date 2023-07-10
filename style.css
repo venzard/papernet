@@ -54,6 +54,7 @@ a{
     font-family: Roboto;
     font-size: 72px;
     font-weight: 500;
+    background-size: 100%;
 }
 
 .problem{
@@ -98,10 +99,12 @@ a{
     font-size: 48px;
     font-style: italic;
     font-weight: 700;
+    background-size: 100%;
 }
 
 .intro{
     background-image: url(https://raw.githubusercontent.com/venzard/papernet/main/assets/img/intro_bck.jpg);
+    background-size: contain;
 }
 .intro_header{
     color: #007765;
